@@ -1,9 +1,12 @@
 撰寫delivery-api 的open api文件
 撰寫inventory-api 的open api文件
-完成delivery-api 的R1.11(調整交收包) R1.12(凍結交收包)
-完成inventory-api 的R3.4
+完成delivery-api 的R1.11(調整交收包) R1.12(凍結交收包)、R1.17
+修改delivery-api 的R1.1、R1.3
+修改inventory-core-api的R2.8
+完成inventory-api 的R3.4、R3.8
+修改inventory-api 的R3.1、R3.6、R3.14、R3.13
 編寫ppt為團隊介紹Restful api
 編寫ppt、Demo Project為團隊介紹MQ(rabbitMQ/Kafka)
-完成delivery-api 的R1.9 R1.12 R1.6單元測試
+完成delivery-api 的R1.9、R1.12、R1.6、R1.9單元測試
 用AOP對APP的log中引入TraceId、SpanId，並且插入傳入參數值及回傳值，能透過TraceId追蹤log
 APP新增Logback.xml、fluentd appender將log先傳入fluentd再傳送至ElasticSerch，在Kibana查詢log
