@@ -10,3 +10,14 @@
 完成delivery-api 的R1.9、R1.12、R1.6、R1.9單元測試
 用AOP對APP的log中引入TraceId、SpanId，並且插入傳入參數值及回傳值，能透過TraceId追蹤log
 APP新增Logback.xml、fluentd appender將log先傳入fluentd再傳送至ElasticSerch，在Kibana查詢log
+編寫ppt、Demo Project為團隊介mongo db
+編寫python project 撈取ES中的log
+編寫ppt、Demo Project為團隊介graphQL
+Mock API server research (to mock DAAS and CT Line API for integration test)
+Prepare integration test data for every API in R3.X
+oracle-trigger-app-mq(建producer/consumer/schedule task)
+編寫ppt為團隊介紹fluentd-logging-POC
+fluentd-logging-POC with docker
+new-earmark R2.1~R2.5 api
+new-earmark R2.1~R2.5 unit test
+new-earmark R3.1~R3.3 unit test
