@@ -21,3 +21,7 @@ fluentd-logging-POC with docker
 new-earmark R2.1~R2.5 api
 new-earmark R2.1~R2.5 unit test
 new-earmark R3.1~R3.3 unit test
+new-earmark R5.1~R5.4 api
+new-earmark R5.1~R5.4 unit test
+new-earmark R4.1 api
+new-earmark R4.1 unit test
